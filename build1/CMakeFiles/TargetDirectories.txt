@@ -1,0 +1,9 @@
+F:/SimpleCoding/BattleCity/build1/CMakeFiles/INSTALL.dir
+F:/SimpleCoding/BattleCity/build1/CMakeFiles/BattleCity.dir
+F:/SimpleCoding/BattleCity/build1/CMakeFiles/ALL_BUILD.dir
+F:/SimpleCoding/BattleCity/build1/CMakeFiles/ZERO_CHECK.dir
+F:/SimpleCoding/BattleCity/build1/external/glfw/CMakeFiles/uninstall.dir
+F:/SimpleCoding/BattleCity/build1/external/glfw/CMakeFiles/INSTALL.dir
+F:/SimpleCoding/BattleCity/build1/external/glfw/CMakeFiles/ALL_BUILD.dir
+F:/SimpleCoding/BattleCity/build1/external/glfw/src/CMakeFiles/glfw.dir
+F:/SimpleCoding/BattleCity/build1/external/glfw/src/CMakeFiles/INSTALL.dir
